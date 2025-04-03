@@ -1,1 +1,1 @@
-This is my first ever coding project (which was a group project) in Cardiff University!
+This is my first ever individual coding project in Cardiff University!
